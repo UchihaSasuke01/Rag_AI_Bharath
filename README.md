@@ -205,5 +205,5 @@ python scripts/create_dummy_pdf.py
 
 ## API Documentation
 
-Once the server is running, visit:
+Once the server is running, please refer:
 - **Swagger UI**: http://localhost:8000/docs
